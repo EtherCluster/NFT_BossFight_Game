@@ -36,8 +36,8 @@
       ]
     },
     "C:\\Users\\Dev\\Desktop\\Git\\NFT_BossFight_Game\\contracts\\MyEpicGame.sol": {
-      "lastModificationDate": 1635159417092,
-      "contentHash": "7523b83ceadb39c750d3cddd8f613d37",
+      "lastModificationDate": 1635161183926,
+      "contentHash": "6c5fc976014015c4c53c7932bbe93458",
       "sourceName": "contracts/MyEpicGame.sol",
       "solcConfig": {
         "version": "0.8.0",

@@ -20,8 +20,8 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
   solidity: '0.8.0',
   networks: {
     rinkeby: {
-      url: '',
-      accounts: [''],
+      url: 'A:CHEMY API KEY',
+      accounts: ['PRIVATE KEY'],
     },
   },
 };
